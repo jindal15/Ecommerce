@@ -1,0 +1,16 @@
+{
+    "name": "MessageBoardUCN",
+    "short_name": "MessageBoardUCN",
+    "theme_color": "#ff095a",
+    "background_color": "#feaaee",
+    "display": "standalone",
+    "start_url": "/index.html",
+    "icons": [
+      {
+        "src": "src/assets/base.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      }
+    ],
+    "splash_pages": null
+  }
